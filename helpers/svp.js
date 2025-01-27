@@ -8,7 +8,7 @@ let motorSpeed = 0;
 let temp = 25;
 let acc = 0;
 
-let interval = 10;
+let interval = 1;
 
 // connections count
 // let experimentServers = 0;
